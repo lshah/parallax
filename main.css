@@ -25,7 +25,7 @@ body {
 
 .bg-image2 {
 	background-image: url("images/street.JPG");
-	
+	background-attachment: fixed;
 }
 
 .bg-image3 {
@@ -35,7 +35,7 @@ body {
 
 .bg-image4 {
 	background-image: url("images/typewriter.JPG");
-	
+	background-attachment: fixed;
 }
 
 .bg-image5 {
